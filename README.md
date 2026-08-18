@@ -1,55 +1,73 @@
 # jakaleo31
 
-> Learning velocity and project potential.
+> Python developer · Student · Building practical projects with real-world value
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **jakaleo31**. This README is tuned for **student** with a GitHub visual system.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=jakaleo31&theme=github-dark" alt="jakaleo31 hero section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=jakaleo31&theme=github-dark" alt="jakaleo31 stats section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=jakaleo31&theme=github-dark" alt="jakaleo31 stats section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=jakaleo31&theme=github-dark" alt="jakaleo31 stack section" />
-  </picture>
-</p>
-## Projects
-> Editing this section in the inspector.
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=jakaleo31&theme=github-dark" alt="jakaleo31 projects section" />
-  </picture>
-</p>
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=jakaleo31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=jakaleo31&theme=github-dark" alt="jakaleo31 social section" />
-  </picture>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=jakaleo31&theme=github-dark&mode=light" />
+        <img src="https://www.gitskins.com/api/section/hero?username=jakaleo31&theme=github-dark" alt="hero section" />
+    </picture>
 </p>
 
-<!-- Sections: Header, About Me, Skills, Projects, Connect -->
+## 👋 About Me
+Sem **Jaka**, študent in Python developer, ki gradi projekte za učenje, prakso in zabavo.  
+Najraje delam na aplikacijah, ki rešujejo konkretne probleme — od osebnih financ do avtomatizacije.
+
+- Fokus: **Python**, logika, backend, orodja za produktivnost  
+- Cilj: izboljšati znanje, graditi uporabne projekte, postati full‑stack developer  
+- Trenutno: razvijam **life-bank**, osebni life/finance manager
+
+---
+
+## 🛠 Skills
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=jakaleo31&theme=github-dark&mode=light" />
+        <img src="https://www.gitskins.com/api/section/stack?username=jakaleo31&theme=github-dark" alt="stack section" />
+    </picture>
+</p>
+
+---
+
+## 📂 Projects
+
+### 🔐 OSPR (Private)
+Vsebuje vaje, teorijo in Python naloge za predmet OSPR.  
+Repo je organiziran po vajah in modulih.
+
+### 💰 life-bank (Public)
+Osebni life & finance manager v Pythonu.  
+Projekt vključuje:
+- SQLite podatkovno bazo  
+- logiko za finance, varčevanje, kredite  
+- modularni UI (tabs, components)
+
+### 🤖 discordbot (Private)
+Preprost Python Discord bot z osnovnimi ukazi.
+
+### 🎮 igra (Private Template)
+Batchfile mini-igra, eksperimentiranje z logiko in terminalnimi efekti.
+
+### 🧪 zabava (Private)
+Eksperimentalni projekti, testiranje idej, prototipi.
+
+### 🖥 desktop-tutorial (Private)
+Repo za GitHub Desktop učenje in testiranje.
+
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jakaleo31&theme=github-dark&mode=light" />
+        <img src="https://www.gitskins.com/api/section/projects?username=jakaleo31&theme=github-dark" alt="projects section" />
+    </picture>
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=jakaleo31&theme=github-dark&mode=light" />
+        <img src="https://www.gitskins.com/api/section/social?username=jakaleo31&theme=github-dark" alt="social section" />
+    </picture>
+</p>
+
